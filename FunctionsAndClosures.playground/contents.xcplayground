@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='closures in variables'/>
+        <page name='Functions as parameters'/>
+        <page name='Anonymous functions'/>
+        <page name='Pure functions'/>
+        <page name='Nested functions'/>
+        <page name='Partial functions'/>
+        <page name='Recursion'/>
+        <page name='Binary Trees'/>
+        <page name='Escaping functions'/>
+        <page name='Memorisation'/>
+        <page name='Higher order functions'/>
+        <page name='Fluent interfaces'/>
+    </pages>
+</playground>
